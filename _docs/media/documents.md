@@ -1,5 +1,5 @@
 ---
-title: 도큐먼트
+title: Documents
 category: Media
 order: 3
 ---

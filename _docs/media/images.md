@@ -1,5 +1,5 @@
 ---
-title: 이미지
+title: Images
 category: Media
 order: 1
 ---
