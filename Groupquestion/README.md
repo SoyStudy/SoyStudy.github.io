@@ -1,8 +1,8 @@
 ---
-sort: 6
+sort: 4
 ---
 
-# This is an incredibly long caption for a long menu
+# 그룹문제관리
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

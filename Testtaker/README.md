@@ -1,8 +1,8 @@
 ---
-sort: 6
+sort: 5
 ---
 
-# This is an incredibly long caption for a long menu
+# 응시자관리
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
