@@ -1,8 +1,8 @@
 ---
-sort: 3
+sort: 1
 ---
 
-# 문제목록
+# 문제관리
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
