@@ -1,7 +1,7 @@
 ---
-title: Video
-category: Media
-order: 2
+title: 응시자삭제
+category: 응시자관리
+order: 3
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.

@@ -1,7 +1,7 @@
 ---
-title: Images
-category: Media
-order: 1
+title: 응시자추가
+category: 응시자관리
+order: 2
 ---
 
 Share images with your friends! Send photos and pictures from your computer, phone or camera.

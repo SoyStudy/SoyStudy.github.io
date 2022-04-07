@@ -1,7 +1,7 @@
 ---
-title: Images
-category: Media
-order: 1
+title: 문제그룹설정
+category: 문제그룹관리
+order: 2
 ---
 
 Share images with your friends! Send photos and pictures from your computer, phone or camera.
