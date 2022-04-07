@@ -1,8 +1,8 @@
 ---
-sort: 6
+sort: 2
 ---
 
-# 폴더생성해서테스트
+# 응시자
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
