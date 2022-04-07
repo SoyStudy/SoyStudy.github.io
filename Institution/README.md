@@ -1,13 +1,9 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # 출제자
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
 
-{% include list.liquid all=true %}
-```
 
 {% include list.liquid all=true %}
