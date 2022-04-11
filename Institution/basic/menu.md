@@ -4,7 +4,7 @@ sort: 2
 
 # 출제자 메뉴
 
-![main](./img/main.png)
+![main](https://github.com/SoyStudy/SoyStudy.github.io/blob/main/img/main.png)
 
 출제자 홈의 각각의 메뉴에 대한 설명은 다음과 같습니다.
 
