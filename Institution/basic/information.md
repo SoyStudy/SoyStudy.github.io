@@ -33,7 +33,9 @@ PC, 랩탑(노트북), 스마트패드, 스마트폰 등 인터넷이 가능한 
 등록된 문제를 복사하여 유사한 문제를 신규로 생성할 수 있습니다.|
 
 
-
+## 출제자 활용개념도
+<img src="https://soystudy.github.io/img/Conceptofuse.png" style="box-shadow:2px 2px 7px;">
+<img src="https://soystudy.github.io/img/Conceptofuse2.png" style="box-shadow:2px 2px 7px;">
 
 ## 로고등록
 『출제자 정보관리』에서 하단의 『로고관리』를 선택하여 이동하시면 화면은 아래의 그림과 같습니다.
