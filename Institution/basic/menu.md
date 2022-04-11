@@ -3,8 +3,8 @@ sort: 2
 ---
 
 # 출제자 메뉴
-<img src="https://soystudy.github.io/img/main.png" style="box-shadow:5px 5px 10px;">
-<img src="https://soystudy.github.io/img/main.png" style="box-shadow: 5px 5px 5px #000;">
+<img src="https://soystudy.github.io/img/main.png" style="box-shadow:2px 2px 7px;">
+
 
 출제자 홈의 각각의 메뉴에 대한 설명은 다음과 같습니다.
 
