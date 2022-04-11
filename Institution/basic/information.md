@@ -32,7 +32,6 @@ PC, 랩탑(노트북), 스마트패드, 스마트폰 등 인터넷이 가능한 
 
 
 ## 출제자 활용개념도
-<img src="https://soystudy.github.io/img/Conceptofuse.png" style="box-shadow:2px 2px 7px;">
 <img src="https://soystudy.github.io/img/Conceptofuse2.png" style="box-shadow:2px 2px 7px;">
 
 ## 로고등록
