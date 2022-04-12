@@ -8,4 +8,14 @@ sort: 1
 
 <img src="https://soystudy.github.io/img/question/questionlist.png" style="box-shadow:2px 2px 7px;">
 
+|번호|내용|
+|----|----|
+|1| 문제분류|
+|2| 한 페이지에 보여질 문제의 갯수|
+|3| 문제의 난이도 조건|
+|4| 현재 페이지 번호|
+|5| 문제추가 버튼|
+|6| 전체 등록된 문제의 갯수|
+|7| 선택된 문제|
+|8| 선택되지 않은 문제|
 
