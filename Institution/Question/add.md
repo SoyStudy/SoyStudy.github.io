@@ -13,7 +13,7 @@ sort: 3
 ## 문제추가 정보입력
 
 등록할 문제의 내용을 입력 해 주세요.  
-<img src="https://soystudy.github.io/img/question/qtlist.png" style="box-shadow:2px 2px 7px;">
+
 
 |제목|내용|
 |----|----|
