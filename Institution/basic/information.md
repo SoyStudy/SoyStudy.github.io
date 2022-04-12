@@ -11,14 +11,11 @@ sort: 3
 <img src="https://soystudy.github.io/img/institutionbasic1.png" style="box-shadow:2px 2px 7px;">
 
 <center class="half">
-    <img src="https://soystudy.github.io/img/institutioncheck.png" width="700" style="box-shadow:2px 2px 7px;"/>
-    <img src="https://soystudy.github.io/img/institutionbasic1.png" width="700" style="box-shadow:2px 2px 7px;"/>
+    <img src="https://soystudy.github.io/img/institutioncheck.png" width="400" style="box-shadow:2px 2px 7px;"/>
+    <img src="https://soystudy.github.io/img/institutionbasic1.png" width="400" style="box-shadow:2px 2px 7px;"/>
 <center>
 
-|출체자 정보 확인||
-|---------------|----------|
-|<img src="https://soystudy.github.io/img/institutioncheck.png" style="box-shadow:2px 2px 7px;">|<img src="https://soystudy.github.io/img/institutionbasic1.png" style="box-shadow:2px 2px 7px;">|
-|출제자 메인화면|출제자 기본정보|
+
 
 
 출제자 상세정보의 메뉴에 대한 설명은 다음과 같습니다.
