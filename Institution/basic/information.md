@@ -15,16 +15,21 @@ sort: 3
     <img src="https://soystudy.github.io/img/institutionbasic1.png" width="700" style="box-shadow:2px 2px 7px;"/>
 <center>
 
+|출체자 정보 확인||
+|---------------|----------|
 |<img src="https://soystudy.github.io/img/institutioncheck.png" style="box-shadow:2px 2px 7px;">|<img src="https://soystudy.github.io/img/institutionbasic1.png" style="box-shadow:2px 2px 7px;">|
 |출제자 메인화면|출제자 기본정보|
 
 
 출제자 상세정보의 메뉴에 대한 설명은 다음과 같습니다.
+
+
 |메뉴 | 설명|
 |-----|-----|
 |MCD	|출제자 고유번호를 의미하며 큐비 지원센터 이용 등에 활용됩니다.|
 |출제 기관명|	응시자가 시험문서 생성시에 삽입되어지므로 반드시 설정해야 합니다.|
-|출제 기관|	회사명, 부서명 혹은 성명이 기재될 수 있습니다.<br>응시자 분류 1~3	출제자가 응시자의 관리를 위해서 설정한 분류로 사용됩니다.|
+|출제 기관|	회사명, 부서명 혹은 성명이 기재될 수 있습니다.
+|응시자 분류 1~3|	출제자가 응시자의 관리를 위해서 설정한 분류로 사용됩니다.|
 |로고 관리|	출제기관의 로고를 등록하며 등록된 로고는 PDF시험문서의 좌상단에 출력됩니다.|
 
 
