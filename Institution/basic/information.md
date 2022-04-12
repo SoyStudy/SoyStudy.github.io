@@ -12,7 +12,7 @@ sort: 3
 >**메인 페이지에서 우측 상단의 사람 아이콘 클릭**
 ><img src="https://soystudy.github.io/img/basic/institutionbasic1.png" style="box-shadow:2px 2px 7px;">
 >**출제자 기본정보 확인**
-><img src="https://soystudy.github.io/img/basic/>institutionbasic2.png" style="box-shadow:2px 2px 7px;">
+><img src="https://soystudy.github.io/img/basic/institutionbasic2.png" style="box-shadow:2px 2px 7px;">
 >**출제자 상세정보 확인**
 ><img src="https://soystudy.github.io/img/basic/institutionbasic3.png" style="box-shadow:2px 2px 7px;">
 >**응시자 분류정보 확인 / 선택 버튼**
