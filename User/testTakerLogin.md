@@ -2,7 +2,7 @@
 
 1. [메인화면](https://www.soystudy.com)에서 우측 상단에 응시자 로그인 선택
    <br><br>
-   <img src="https://soystudy.github.io/img/testTakerLogin/testTakerLogin.png" style="box-shadow:2px 2px 7px;">
+   <img src="https://soystudy.github.io/img/testTakerLogin/testTakerLogin_1.png" style="box-shadow:2px 2px 7px;">
 
 2. 로그인 입력창에 자신이 가입한 이메일과 비밀번호를 입려한후 확인 버튼 클릭
    <br><br>
