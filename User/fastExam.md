@@ -19,5 +19,5 @@
    <br><br>
 4. 시험에 진행여부를 물어보는 창이 나타나고, 시험을 응시하려면 "예" 버튼을 아니라면 "아니요"를 클릭
    <br><br>
-   <img src="https://soystudy.github.io/img/fastExam/fastExam_3.png" style="box-shadow:2px 2px 7px;">
+   <img src="https://soystudy.github.io/img/fastExam/fastExam_4.png" style="box-shadow:2px 2px 7px;">
    <br><br>
