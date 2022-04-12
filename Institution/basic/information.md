@@ -32,5 +32,9 @@ sort: 3
 
 ## 로고등록
 『출제자 정보관리』에서 하단의 『로고관리』를 선택하여 이동하시면 화면은 아래의 그림과 같습니다.
-
-'이미지'
+<img src="https://soystudy.github.io/img/basic/logo.png" style="box-shadow:2px 2px 7px;">
+로고가 등록되었을 경우 PDF 문제지, 해설지 및 채점지 상단에 로고가 표기되어집니다.
+**문제지 PDF**
+<img src="https://soystudy.github.io/img/basic/logo.png" style="box-shadow:2px 2px 7px;">
+**시험 해설지 PDF**
+<img src="https://soystudy.github.io/img/basic/logo.png" style="box-shadow:2px 2px 7px;">
